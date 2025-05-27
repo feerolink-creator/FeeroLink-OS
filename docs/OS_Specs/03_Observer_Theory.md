@@ -11,7 +11,7 @@ FeeroLink OSでは、「すべての存在は異なるレイヤーを観測し�
 
 ---
 
-![Observer and Cat Layer](/assets/images/observer_cat_layers.jpg)
+![Observer and Cat Layer](https://github.com/feerolink-creator/FeeroLink-OS/blob/main/docs/assets/images/observer_cat_layers.jpg)
 
 ### 観測者とネコの像（例）
 
