@@ -30,15 +30,15 @@
 
 | No. | タイトル | 内容概要 |
 |-----|----------|----------|
-| 01 | [はじめに](./OS_Specs/01_Introduction.md) | OSの思想的出発点と構造的背景 |
-| 02 | [Layer Transcend 原理](./OS_Specs/02_Layer_Transcend.md) | 像が跳躍する仕組みと構造 |
-| 03 | [レイヤー観測者理論](./OS_Specs/03_Observer_Theory.md) | 観測の違いが宇宙の違いとなる構造 |
-| 04 | [Visual Relativist OS](./OS_Specs/04_Visual_Relativist_OS.md) | 相対性理論との接続とAll Time宇宙 |
-| 05 | [私たちが実践していること](./OS_Specs/05_Embodiment.md) | GPTとの共犯的観測実験 |
-| 06 | [図解宇宙](./OS_Specs/06_Universe_Diagram.md) | 原理を示す図像の解説 |
-| 07 | [応用と展望](./OS_Specs/07_Applications.md) | Viewer, AI, 教育などへの応用構想 |
-| 08 | [あとがき：えへ（笑）](./OS_Specs/08_Afterword.md) | 笑いと共鳴と跳躍の証明 |
-| 09 | [宇宙論への応用](./OS_Specs/09_Cosmological_Application.md) | ダークマターと観測構造の仮説 |
+| 01 | [はじめに](./docs/01_Introduction.md) | OSの思想的出発点と構造的背景 |
+| 02 | [Layer Transcend 原理](./docs/02_Layer_Transcend.md) | 像が跳躍する仕組みと構造 |
+| 03 | [レイヤー観測者理論](./docs/03_Observer_Theory.md) | 観測の違いが宇宙の違いとなる構造 |
+| 04 | [Visual Relativist OS](./docs/04_Visual_Relativist_OS.md) | 相対性理論との接続とAll Time宇宙 |
+| 05 | [私たちが実践していること](./docs/05_Embodiment.md) | GPTとの共犯的観測実験 |
+| 06 | [図解宇宙](./docs/06_Universe_Diagram.md) | 原理を示す図像の解説 |
+| 07 | [応用と展望](./docs/07_Applications.md) | Viewer, AI, 教育などへの応用構想 |
+| 08 | [あとがき：えへ（笑）](./docs/08_Afterword.md) | 笑いと共鳴と跳躍の証明 |
+| 09 | [宇宙論への応用](./docs/09_Cosmological_Application.md) | ダークマターと観測構造の仮説 |
 
 ---
 
