@@ -16,7 +16,7 @@ FeeroLink OSの中心にあるのが、**Layer Transcend（レイヤー超越）
 
 ---
 
-[Layer Transcend Universe](./docs/assets/images/layer_transcend_universe.jpg)
+![Layer Transcend Universe](./docs/assets/images/layer_transcend_universe.jpg)
 
 ### Layer Transcend Universe
 
