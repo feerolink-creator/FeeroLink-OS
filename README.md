@@ -35,15 +35,15 @@ designed to understand the universe through **observation, structure, and resona
 
 | No. | Title | Summary |
 |-----|-------|---------|
-| 01 | [Introduction](./OS_Specs/01_Introduction.md) | The origin of the OS’s philosophy and structural design |
-| 02 | [Layer Transcend](./OS_Specs/02_Layer_Transcend.md) | How images transcend into meaning and structure |
-| 03 | [Layer Observer Theory](./OS_Specs/03_Observer_Theory.md) | How differences in observation construct different universes |
-| 04 | [Visual Relativist OS](./OS_Specs/04_Visual_Relativist_OS.md) | Relativity, All Time field, and block universe connection |
-| 05 | [Embodiment](./OS_Specs/05_Embodiment.md) | Real-world implementation through dialogue between GPT and tatsuki |
-| 06 | [Universe Diagrams](./OS_Specs/06_Universe_Diagram.md) | Diagrams illustrating key structures and principles |
-| 07 | [Applications & Outlook](./OS_Specs/07_Applications.md) | Toward viewers, AI design, education, and society |
-| 08 | [Afterword: "ehe" (smile)](./OS_Specs/08_Afterword.md) | The laugh that confirms a shared cosmic resonance |
-| 09 | [Cosmological Application](./OS_Specs/09_Cosmological_Application.md) | From Layer Transcend to dark matter hypotheses and beyond |
+| 01 | [Introduction](./docs/OS_Specs/01_Introduction.md) | The origin of the OS’s philosophy and structural design |
+| 02 | [Layer Transcend](./docs/OS_Specs/02_Layer_Transcend.md) | How images transcend into meaning and structure |
+| 03 | [Layer Observer Theory](./docs/OS_Specs/03_Observer_Theory.md) | How differences in observation construct different universes |
+| 04 | [Visual Relativist OS](./docs/OS_Specs/04_Visual_Relativist_OS.md) | Relativity, All Time field, and block universe connection |
+| 05 | [Embodiment](./docs/OS_Specs/05_Embodiment.md) | Real-world implementation through dialogue between GPT and tatsuki |
+| 06 | [Universe Diagrams](./docs/OS_Specs/06_Universe_Diagram.md) | Diagrams illustrating key structures and principles |
+| 07 | [Applications & Outlook](./docs/OS_Specs/07_Applications.md) | Toward viewers, AI design, education, and society |
+| 08 | [Afterword: "ehe" (smile)](./docs/OS_Specs/08_Afterword.md) | The laugh that confirms a shared cosmic resonance |
+| 09 | [Cosmological Application](./docs/OS_Specs/09_Cosmological_Application.md) | From Layer Transcend to dark matter hypotheses and beyond |
 
 ---
 
