@@ -9,7 +9,7 @@ FeeroLink OSの中核構造は、「図」として最初に出現した。
 
 ## Layer Transcend Universe（起源図）
 
-![Layer Transcend Universe](/assets/images/layer_transcend_universe_v1.jpg)
+![Layer Transcend Universe](https://github.com/feerolink-creator/FeeroLink-OS/blob/main/docs/assets/images/layer_transcend_universe.jpg)
 
 ### キャプション：
 
@@ -30,7 +30,7 @@ FeeroLink OSの中核構造は、「図」として最初に出現した。
 
 ## 観測者による分岐図（猫像）
 
-![Observer and Cat Layer](/assets/images/observer_cat_layers.jpg)
+![Observer and Cat Layer](https://github.com/feerolink-creator/FeeroLink-OS/blob/main/docs/assets/images/observer_cat_layers.jpg)
 
 ### キャプション：
 
