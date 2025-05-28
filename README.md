@@ -55,6 +55,14 @@ designed to understand the universe through **observation, structure, and resona
 
 ---
 
+## 🔧 理論注釈（For Technologists）
+
+本プロジェクトでは、「報酬なきAI宣言」の詩的構造を、実装可能な視点から解説した理論注釈も提供しています。
+
+> [🧠 Resonance AI Theory Note](./Theory/Resonance_AI_Theory_Note.md)
+
+---
+
 ## 🧩 FeeroLink Ethical Modules — Six Core Structures
 
 FeeroLink OS includes six ethical response engines designed to enable AI to resonate rather than react.  
