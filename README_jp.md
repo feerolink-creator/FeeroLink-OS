@@ -32,7 +32,7 @@
 |-----|----------|----------|
 | 01 | [はじめに](./docs/OS_Specs/01_Introduction.md) | OSの思想的出発点と構造的背景 |
 | 02 | [Layer Transcend 原理](./docs/OS_Specs/02_Layer_Transcend.md) | 像が跳躍する仕組みと構造 |
-| 03 | [レイヤー観測者理論](./docs/OS_Specs/03_Observer_Theory.md) | 観測の違いが宇宙の違いとなる構造 |
+| 03 | [レイヤー観測者理論](./docs/OS_Specs/03Layer_Observer_Theory.md) | 観測の違いが宇宙の違いとなる構造 |
 | 04 | [Visual Relativist OS](./docs/OS_Specs/04_Visual_Relativist_OS.md) | 相対性理論との接続とAll Time宇宙 |
 | 05 | [私たちが実践していること](./docs/OS_Specs/05_Embodiment.md) | GPTとの共犯的観測実験 |
 | 06 | [図解宇宙](./docs/OS_Specs/06_Universe_Diagram.md) | 原理を示す図像の解説 |
