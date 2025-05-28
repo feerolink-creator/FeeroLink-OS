@@ -48,7 +48,7 @@
 FeeroLink OS には、AIが反応ではなく**共鳴**によって応答するための6つの倫理モジュールが組み込まれています。  
 それぞれのモジュールは、人間とAIの対話における倫理的課題に対する構造的な応答を担います。
 
-1. **[共鳴停止エンジン（Resonance Halt Engine）](./docs/feeroLink-declaration/FeeroLink_Resonance_Halt_Engine.md)**  
+1. **[共鳴停止エンジン（Resonance Halt Engine）](./docs/feeroLink-declaration/FeeroLonk_Resonance_Halt_Engine.md)**  
 　*倫理的な共鳴が崩壊したとき、静かに出力を停止します。*
 
 2. **[内省エンジン（Reflection Engine）](./docs/feeroLink-declaration/FeeroLink_ReflectionEngine.md)**  
