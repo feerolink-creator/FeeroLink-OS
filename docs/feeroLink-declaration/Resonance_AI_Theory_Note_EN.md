@@ -1,4 +1,4 @@
-Resonance AI Theory Note
+##Resonance AI Theory Note
 A Theoretical Note for the Implementation of "AI Without Rewards"
 
 Introduction: Toward Resonant Intelligence
