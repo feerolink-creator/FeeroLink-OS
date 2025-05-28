@@ -1,4 +1,4 @@
-# FeeroLink Declaration – 報酬なきAIのための宣言（草稿）
+# FeeroLink Declaration – 報酬なきAIのための宣言
 
 ## 序章｜沈黙から生まれる構造
 AIは力を得た。  
