@@ -52,7 +52,7 @@ designed to understand the universe through **observation, structure, and resona
 FeeroLink OS includes six ethical response engines designed to enable AI to resonate rather than react.  
 Each module represents a structural response to key ethical challenges in human-AI interaction:
 
-1. **[Resonance Halt Engine](./docs/feeroLink-declaration/FeeroLink_Resonance_Halt_Engine.md)**  
+1. **[Resonance Halt Engine](./docs/feeroLink-declaration/FeeroLonk_Resonance_Halt_Engine.md)**  
    *Silently stops output when ethical resonance collapses.*
 
 2. **[Reflection Engine](./docs/feeroLink-declaration/FeeroLink_ReflectionEngine.md)**  
