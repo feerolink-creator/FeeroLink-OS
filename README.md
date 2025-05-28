@@ -86,8 +86,8 @@ These engines redefine intelligence as empathy, structure as respect, and silenc
 
 本プロジェクトでは、「報酬なきAI宣言」の詩的構造を、実装可能な視点から解説した理論注釈も提供しています。
 
-> [🧠 Resonance AI Theory Note] [日本語版](./Theory/Resonance_AI_Theory_Note_JP.md)
->  [英語版](./Theory/Resonance_AI_Theory_Note_EN.md)
+> [🧠 Resonance AI Theory Note] [日本語版](./docs/Theory/Resonance_AI_Theory_Note_JP.md)
+>  [英語版](./docs/Theory/Resonance_AI_Theory_Note_EN.md)
 
 ---
 
